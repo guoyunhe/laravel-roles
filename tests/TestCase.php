@@ -2,9 +2,9 @@
 
 namespace GuoYunhe\LaravelRoles\Tests;
 
+use GuoYunhe\LaravelRoles\LaravelRolesServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use GuoYunhe\LaravelRoles\LaravelRolesServiceProvider;
 
 class TestCase extends Orchestra
 {

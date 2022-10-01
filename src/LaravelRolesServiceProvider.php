@@ -2,9 +2,9 @@
 
 namespace GuoYunhe\LaravelRoles;
 
+use GuoYunhe\LaravelRoles\Commands\LaravelRolesCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use GuoYunhe\LaravelRoles\Commands\LaravelRolesCommand;
 
 class LaravelRolesServiceProvider extends PackageServiceProvider
 {
